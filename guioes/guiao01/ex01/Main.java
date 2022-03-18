@@ -12,8 +12,7 @@ class Printer extends Thread {
     }
 }
 
-public class ex01 {
-
+public class Main {
     public static void main(String[] args) {
         final int N = Integer.parseInt(args[0]);
         final int I = Integer.parseInt(args[1]);
